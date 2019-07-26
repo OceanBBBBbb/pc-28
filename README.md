@@ -1,5 +1,6 @@
 # pc-28
 luyck-28
+有偿定制自动下单策略程序 请联系微信：bhy980226275
 
 ## 请一定先看wiki怎么拿到第一桶金
 详细教程可以看[wiki](https://github.com/OceanBBBBbb/pc-28/wiki)
